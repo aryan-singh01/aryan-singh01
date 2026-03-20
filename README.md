@@ -3,18 +3,12 @@
 Welcome to my GitHub profile! I'm a passionate Learner. I enjoy working on innovative projects and exploring new technologies.
 
 ## 🌱 About Me
-- 💻 I’m currently exploring Cybersecurity in addition with some Web Development.
-- 🎯 I’m focused on a project Named EZflow.
+- 💻 I’m currently exploring Quant Finance in addition with some Web Development.
+- 🎯 I’m focused on a project Named Fleet Management Program.
 - 🎓 I am currently pursuing Btech in Computer Sceince from IIT Ropar.
 - 🌍 Based in Punjab
 - 🎉 I'm passionate about learning new things and working on exciting projects.
-- 🏆 I recently participated in Smart India Hackathon.
-
-## 🚀 Projects
-Here are a few projects I've worked on:
-
-1. **Ezflow**
-   - Description
+- 🏆 I recently participated in Smart India Hackathon and Inter IIT Tech Meet 14.0.
 
 ## 💼 Skills
 - **Languages:** Python, C++
