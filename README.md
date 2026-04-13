@@ -12,14 +12,10 @@ Welcome to my GitHub profile! I'm a passionate Learner. I enjoy working on innov
 
 ## 💼 Skills
 - **Languages:** Python, C++
-- **Frameworks:** [Frameworks You Use]
-- **Tools:** [Tools You Use]
-- **Databases:** [Databases You're Familiar With]
 
 ## 📫 How to Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/aryan-singh-824329287/)
 - [Instagram](https://www.instagram.com/aryan_174_/)
-- [Personal Website/Blog](your-website-link)
 
 Feel free to reach out or connect! I love collaborating and sharing ideas. 
 
